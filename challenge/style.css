@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;900&display=swap');
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.card{
+    width: 390px;
+    height: 400px;
+    background: #fff;
+    border-radius: 25px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    
+}
+.up{
+    height: 150px;
+    background-image: url("bg2.svg");
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+.low{
+    height: 250px;
+    
+}
+.imgg {
+    
+    width: 6em;
+              height: 6em;
+              border: 5px solid white;
+              border-radius: 50%;
+              margin-top: 6.5em;
+              margin-left: 8.5em;
+              
+  }
+  
+  .imgg img {
+    width: auto;
+    border-radius: 50%;
+    
+   
+  }
+  .name{
+      text-align: center;
+      font-size: 18px;
+      font-family: 'Roboto', sans-serif;
+      font-weight: bold;
+
+  }
+  .age{
+      text-decoration: none;
+      color: rgb(121, 121, 121);
+      font-size: 16px ;
+      padding-left: 0px;
+      font-weight: normal;
+      text-align: center;
+      font-weight:lighter;
+      font-family: 'Roboto', sans-serif;
+      font-weight: lighter ;
+  }
+  .info{
+      padding-top: 170px;
+      padding-left: 2em;
+      font-family: 'Roboto', sans-serif;
+      font-weight: bold;
+      font-size: 19px;
+      
+  }
+  .likes{
+    padding-top: 170px;
+    padding-left: 4em;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 19px;
+    
+}
+.photo{
+    padding-top: 170px;
+    padding-left: 5em;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 19px;
+    
+}
+.text1{
+    
+        text-decoration: none;
+        color: rgb(121, 121, 121);
+        font-size: 10px ;
+        padding-left: -9px;
+        font-weight: normal;
+        padding-top: -15px;
+        padding-right: 50px;
+        padding-left: 0px;
+        font-weight:lighter;
+    
+
+}
+.text2{
+    
+    text-decoration: none;
+    color: rgb(121, 121, 121);
+    font-size: 10px ;
+    padding-left: 29px;
+    font-weight: normal;
+    padding-top: -15px;
+    padding-right: 29px;
+    font-weight:lighter;
+    
+
+
+}
+.text3{
+    
+    text-decoration: none;
+    color: rgb(121, 121, 121);
+    font-size: 10px;
+    
+    font-weight: normal;
+    padding-top: -15px;
+    padding-left: 85px;
+    font-weight:lighter;
+
+
+}
+
+
+p {
+    display: block;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
